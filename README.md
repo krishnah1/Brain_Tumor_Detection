@@ -11,7 +11,7 @@
 - [Motivation](#Motivation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Results](#results)
+- [Results]([#results)](https://github.com/krishnah1/Brain_Tumor_Detection/blob/main/README.md#-results)
 
 ## 😇 Motivation
 
