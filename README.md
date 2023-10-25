@@ -6,6 +6,13 @@
 
 **Brain tumor detection** is the use of medical imaging methods to identify and evaluate the presence and specific characteristics of brain tumors, contributing to the diagnosis and treatment planning process in the field of medicine.
 
+## Table of Contents
+
+- [Motivation](#Motivation)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Support These Projects](#support-these-projects)
+
 ## 😇 Motivation
 
 A brain tumor is a mass or growth of abnormal cells in your brain. There are many types of brain tumors which doctors take a lot of time to find and to analyse. This decreases the efficiency in the treatment and a sheer waste of time. Using the segmentation concept, the tumor can be found within
