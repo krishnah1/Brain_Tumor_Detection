@@ -8,13 +8,18 @@
 
 ## Table of Contents
 
-- [Motivation](#Motivation)
-- [Setup](#setup)
-- [Usage](#usage)
+- [Motivation](#-motivation)
+- [Tech Stack](#%EF%B8%8Ftech-stack)
+- [Features](#-features)
+- [Data Sets](#-data-sets)
+- [Data Augmentation](#data-augmentation)
+- [Data Preprocessing](#-data-preprocessing)
+- [Data Split](#data-split)
 - [Results](#-results)
+  
 ## 😇 Motivation
 
-A brain tumor is a mass or growth of abnormal cells in your brain. There are many types of brain tumors which doctors take a lot of time to find and to analyse. This decreases the efficiency in the treatment and a sheer waste of time. Using the segmentation concept, the tumor can be found within
+A brain tumor is a mass or growth of abnormal cells in your brain. There are many types of brain tumors that doctors take a lot of time to find and analyze. This decreases the efficiency of the treatment and is a sheer waste of time. Using the segmentation concept, the tumor can be found within
 no time and with much more efficiency. This thesis presents a novel, fully automatic method for intracranial boundary detection and intensity correction in MR images of the head. The intracranial boundary is the boundary between the brain and the intracranial cavity. It accurately segments the brain from other features in the head.
 ## ⚠️Tech Stack
 
@@ -37,7 +42,7 @@ no time and with much more efficiency. This thesis presents a novel, fully autom
 
 - Users can fine-tune the system by adjusting model settings and parameters to optimize its performance in various clinical scenarios and environmental conditions.
 ## 📂 Data Sets
-- The data sets can be downloaded here [click here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+- The data sets can be [downloaded here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 - The dataset is organized into two primary folders: **"yes"** and **"no"**, collectively containing **253** Brain MRI Images. 
 - Within the **"yes"** directory are **155** Brain MRI Images illustrating tumorous cases. 
