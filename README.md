@@ -11,7 +11,7 @@
 - [Motivation](#Motivation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Results](#🔑 Results)
+- [Results](Results)
 
 ## 😇 Motivation
 
@@ -38,7 +38,7 @@ no time and with much more efficiency. This thesis presents a novel, fully autom
 
 - Users can fine-tune the system by adjusting model settings and parameters to optimize its performance in various clinical scenarios and environmental conditions.
 ## 📂 Data Sets
-- The data sets can be downloaded here https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+- The data sets can be downloaded here [click here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 - The dataset is organized into two primary folders: **"yes"** and **"no"**, collectively containing **253** Brain MRI Images. 
 - Within the **"yes"** directory are **155** Brain MRI Images illustrating tumorous cases. 
