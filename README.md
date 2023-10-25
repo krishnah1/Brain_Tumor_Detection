@@ -11,7 +11,7 @@
 - [Motivation](#Motivation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Support These Projects](#support-these-projects)
+- [Results](#Results)
 
 ## 😇 Motivation
 
