@@ -11,8 +11,7 @@
 - [Motivation](#Motivation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Results]([#results)](https://github.com/krishnah1/Brain_Tumor_Detection/blob/main/README.md#-results)
-
+- [Results]([#results)]
 ## 😇 Motivation
 
 A brain tumor is a mass or growth of abnormal cells in your brain. There are many types of brain tumors which doctors take a lot of time to find and to analyse. This decreases the efficiency in the treatment and a sheer waste of time. Using the segmentation concept, the tumor can be found within
